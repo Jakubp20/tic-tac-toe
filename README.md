@@ -1,5 +1,5 @@
 # tit tac toe
 
-Simple program
+Simple program psio
 
 
